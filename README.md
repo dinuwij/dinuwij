@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 / Ayubowan 🙏
 
 <!--
 **dinuwij/dinuwij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello 👋
+
 
 I am Dinu and this is my GitHub profile. Projects from my masters as well as my personal projects - which I am currently working on are all included here. My goal is to keep my GitHub Profile as active as possible this year - lets see how it goes 😎.... 
 
