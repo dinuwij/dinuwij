@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello 👋
+
+I am Dinu and this is my GitHub profile. Projects from my masters as well as my personal projects - which I am currently working on are all included here. My goal is to keep my GitHub Profile as active as possible this year - lets see how it goes 😎.... 
+
+- 🔭 I’m currently working on refreshing and improving my data analytical skills
+- 🌱 I’m currently learning GitHub and NLP
+- 👯 I’m looking to collaborate on Social Media Analytics
+- ⚡ Fun fact: Love sci-fi and horror though I freak out reading/ watching them
+
