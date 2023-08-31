@@ -21,5 +21,5 @@ I am Dinu and this is my GitHub profile. Projects from my masters as well as my 
 - 🔭 Working on keeping my GitHub active & refreshing and improving my data analytical skills
 - 🌱 Learning PowerBI and planning to learn a bit about LLMs
 - 👯 I’m looking to collaborate on projects 
-- ⚡ Fun fact: Went to FR to study hoping to travel, but got caught in the lockdown in FR during covid, and back in SL
+- ⚡ Fun fact: Went to FR to study hoping to travel, but got caught in the lockdown in FR during covid, hopped from place to place - met wonderful people and back in SL
 
