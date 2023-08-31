@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am Dinu and this is my GitHub profile. Projects from my masters as well as my personal projects - which I am currently working on are all included here. My goal is to keep my GitHub Profile as active as possible this year - lets see how it goes 😎.... 
 
 - 🔭 Working on keeping my GitHub active & refreshing and improving my data analytical skills
-- 🌱 Learning GitHub and NLP
-- 👯 I’m looking to collaborate on projects and global challenges 
-- ⚡ Fun fact: Love sci-fi and horror though I freak out reading/ watching them
+- 🌱 Learning PowerBI and planning to learn a bit about LLMs
+- 👯 I’m looking to collaborate on projects 
+- ⚡ Fun fact: Went to FR to study hoping to travel, but got caught in the lockdown in FR during covid, and back in SL
 
